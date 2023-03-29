@@ -6,7 +6,33 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/teal"
     tools:context=".SQLiteActivity" >
+
+    <TextView
+        android:id="@+id/headlineText"
+        android:layout_width="246dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/sqllite_headline"
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="20sp" />
+
+
+    <TextView
+        android:id="@+id/enter_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:text="@string/enter_msg"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
         android:id="@+id/msg"
@@ -16,17 +42,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="27dp"
         android:ems="10"
-        android:inputType="textMultiLine" />
-
-    <TextView
-        android:id="@+id/enter_msg"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="41dp"
-        android:text="@string/enter_msg"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:inputType="textMultiLine"
+        android:maxLength="255"
+        android:hint="Maximum 255 Characters Only" />
 
     <Button
         android:id="@+id/save_msg"
@@ -36,7 +54,8 @@
         android:layout_below="@+id/msg"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="26dp"
-        android:text="@string/save_msg" 
+        android:text="@string/save_msg"
+        android:background="#FBFB93"
         android:onClick="saveMessage"/>
 
     <Button
@@ -48,6 +67,7 @@
         android:layout_marginLeft="22dp"
         android:layout_toRightOf="@+id/save_msg"
         android:text="@string/cancel_msg"
+        android:background="#FBFB93"
         android:onClick="cancelMessage" />
 
 </RelativeLayout>

@@ -6,33 +6,58 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/teal"
     tools:context=".MainActivity" >
 
+
+    <TextView
+        android:id="@+id/headlineText"
+        android:layout_width="278dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="44dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/activity_text"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
     <Button android:id="@+id/open_preferences"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="153dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginLeft="32dp"
+        android:background="#FBFB93"
         android:text="@string/open_preferences"
         android:onClick="openPreference"
         android:layout_alignParentLeft="true"
-        android:layout_toLeftOf="@+id/open_sqlite"
-        />
-    
-    <Button android:id="@id/open_sqlite"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/open_sqlite"
+        android:layout_toLeftOf="@+id/open_sqlite" />
+
+
+    <Button
+        android:id="@id/open_sqlite"
+        android:layout_width="153dp"
+        android:layout_height="66dp"
         android:layout_alignParentRight="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginRight="18dp"
+        android:background="#FBFB93"
         android:onClick="saveInDatabase"
-        />
-   
-    
-    <TextView android:id="@+id/saved_data"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:singleLine="false"
+        android:text="@string/open_sqlite" />
+
+    <TextView
+        android:id="@+id/saved_data"
+        android:layout_width="370dp"
+        android:layout_height="250dp"
         android:layout_below="@id/open_sqlite"
         android:layout_centerInParent="true"
-         />
+        android:layout_centerVertical="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/white"
+        android:singleLine="false" />
 
     <Button
         android:id="@+id/btn_close"
@@ -41,6 +66,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="41dp"
+        android:background="#FBFB93"
         android:text="@string/btn_close" 
         android:onClick="exitApp"/>
 

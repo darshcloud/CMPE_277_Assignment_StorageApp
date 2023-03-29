@@ -17,10 +17,13 @@
     <string name="save_btn">Save</string>
     <string name="cancel_btn">Cancel</string>
     <string name="title_activity_sqlite">SQLiteActivity</string>
-    <string name="enter_msg">Enter message</string>
+    <string name="enter_msg">Blog Message</string>
     <string name="save_msg">Save</string>
     <string name="cancel_msg">Cancel</string>
     <string name="save_success_msg">Message saved successfully!</string>
     <string name="btn_close">Close</string>
+    <string name="activity_text">Android Data Storage Sample</string>
+    <string name="preference_headline">Preference Storage View</string>
+    <string name="sqllite_headline">SQLite View</string>
 
 </resources>

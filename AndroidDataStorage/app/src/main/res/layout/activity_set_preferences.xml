@@ -7,26 +7,43 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
+    android:background="@color/teal"
     tools:context=".SetPreferencesActivity" >
+
+    <TextView
+        android:id="@+id/headlineText"
+        android:layout_width="246dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/preference_headline"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="100dp">
+    </View>
     
     <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
        	android:orientation="horizontal">
 
     <TextView
         android:id="@+id/book_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/book_name" />
+        android:text="@string/book_name"
+        android:textColor="@color/white"/>
     
     <EditText 
         android:id="@+id/bookname_value"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:maxLength="70"
-        android:hint="@string/bookname_hint"
-        />
+        android:hint="@string/bookname_hint"/>
     </LinearLayout>
     
     <View
@@ -43,7 +60,8 @@
         android:id="@+id/book_author"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/book_author" 
+        android:text="@string/book_author"
+        android:textColor="@color/white"
         />
     
     <EditText 
@@ -51,8 +69,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:maxLength="70"
-        android:hint="@string/bookauthor_hint"
-        />
+        android:hint="@string/bookauthor_hint" />
     </LinearLayout>
     
     <View
@@ -69,8 +86,8 @@
         android:id="@+id/description"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/description" 
-        />
+        android:text="@string/description"
+        android:textColor="@color/white" />
     
     <EditText 
         android:id="@+id/description_value"
@@ -78,35 +95,45 @@
         android:layout_height="wrap_content"
         android:maxLength="255"
         android:inputType="textMultiLine"
-        android:hint="@string/description_hint"
-        />
+        android:hint="@string/description_hint" />
     </LinearLayout>
     
     <View
         android:layout_width="fill_parent"
         android:layout_height="30dp">
     </View>
-    
+
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
        	android:orientation="horizontal">
-    
+
+        <View
+            android:layout_width="60dp"
+            android:layout_height="30dp">
+        </View>
+
         <Button android:id="@+id/save_btn"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:text="@string/save_btn"
-            android:onClick="onSave"
-           />
-        
+            android:background="#FBFB93"
+            android:onClick="onSave" />
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="30dp">
+        </View>
+
+
         <Button android:id="@+id/cancel_btn"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:text="@string/cancel_btn"
-            android:onClick="onCancel"
-            />
-    
+            android:background="#FBFB93"
+            android:onClick="onCancel" />
+
         </LinearLayout>
-    
+
 
 </LinearLayout>

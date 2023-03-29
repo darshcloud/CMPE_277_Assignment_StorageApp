@@ -6,54 +6,64 @@
                 {
                     "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "4,3,11,10,13,12,23,17,21,15,14,19,5,6,7,8,16,20,22,9,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "118,59,525,468,648,586,1204,874,1083,778,712,987,172,226,284,332,831,1040,1130,385,921",
-                        "endColumns": "52,57,59,55,62,60,43,45,45,51,64,51,52,56,46,51,41,41,72,81,64",
-                        "endOffsets": "166,112,580,519,706,642,1243,915,1124,825,772,1034,220,278,326,379,868,1077,1198,462,981"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,26,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1392,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,56,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1444,-1,-1"
                     },
                     "to": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "169,222,280,340,396,459,520,564,610,656,708,773,825,878,935,982,1034,1076,1118,1191,1273",
-                        "endColumns": "52,57,59,55,62,60,43,45,45,51,64,51,52,56,46,51,41,41,72,81,64",
-                        "endOffsets": "217,275,335,391,454,515,559,605,651,703,768,820,873,930,977,1029,1071,1113,1186,1268,1333"
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "392,445,515,573,633,689,752,813,857,903,949,1001,1066,1117,1170,1227,1274,1346,1398,1440,1482,1555,1612,1694",
+                        "endColumns": "52,69,57,59,55,62,60,43,45,45,51,64,50,52,56,46,71,51,41,41,72,56,81,64",
+                        "endOffsets": "440,510,568,628,684,747,808,852,898,944,996,1061,1112,1165,1222,1269,1341,1393,1435,1477,1550,1607,1689,1754"
+                    }
+                },
+                {
+                    "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,101,148,199,238",
+                        "endColumns": "45,46,50,38,39",
+                        "endOffsets": "96,143,194,233,273"
                     }
                 },
                 {
                     "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "6,15",
-                        "startColumns": "4,4",
-                        "startOffsets": "191,522",
-                        "endLines": "12,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "481,679"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
-                        "startLines": "25,32",
+                        "startLines": "33,36",
                         "startColumns": "4,4",
-                        "startOffsets": "1338,1629",
-                        "endLines": "31,34",
+                        "startOffsets": "1759,1842",
+                        "endLines": "35,38",
                         "endColumns": "12,12",
-                        "endOffsets": "1624,1784"
+                        "endOffsets": "1837,1909"
                     }
                 },
                 {
                     "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
-                        "startLines": "2,3",
+                        "startLines": "7,8",
                         "startColumns": "4,4",
-                        "startOffsets": "55,113",
+                        "startOffsets": "278,336",
                         "endColumns": "57,55",
-                        "endOffsets": "108,164"
+                        "endOffsets": "331,387"
                     }
                 }
             ]
