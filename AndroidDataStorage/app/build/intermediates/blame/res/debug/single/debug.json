@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sqlite.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\layout\\activity_sqlite.xml"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\menu_sqlite.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\menu\\sqlite.xml"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\menu_set_preferences.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\menu\\set_preferences.xml"
+    },
+    {
+        "merged": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_preferences.xml.flat",
+        "source": "D:\\Darshini_Files\\Darshini_MS_Documents\\MSSE_SJSU\\CMPE_277_Smartphone_Application_Development\\CMPE_277_Assignment_StorageApp\\AndroidDataStorage\\app\\src\\main\\res\\layout\\activity_set_preferences.xml"
+    }
+]

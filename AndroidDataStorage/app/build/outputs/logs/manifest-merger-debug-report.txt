@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:7:5-37:19
+	android:label
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.secondassig.androiddatastorage.MainActivity
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:13:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.secondassig.androiddatastorage.SetPreferencesActivity
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:parentActivityName
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:24:13-89
+	android:label
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:23:13-67
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:22:13-85
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:25:13-27:83
+	android:value
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:27:17-80
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:26:17-63
+activity#com.secondassig.androiddatastorage.SQLiteActivity
+ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:parentActivityName
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:32:13-89
+	android:label
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:31:13-58
+	android:name
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml:30:13-77
+uses-sdk
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Darshini_Files\Darshini_MS_Documents\MSSE_SJSU\CMPE_277_Smartphone_Application_Development\CMPE_277_Assignment_StorageApp\AndroidDataStorage\app\src\main\AndroidManifest.xml
